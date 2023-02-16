@@ -5,7 +5,6 @@
       "ClientID": 1,
       "FirstName": "ISSAM",
       "LastName": "HOUSNI",
-      "HouseFamily": "HOUSNI",
       "Email": "issamhousni39@gmail.com"
     },
     {
@@ -13,7 +12,6 @@
       "ClientID": 2,
       "FirstName": "AMIN",
       "LastName": "MALLALI",
-      "HouseFamily": "MALLALI",
       "Email": "aminmallali39@gmail.com"
     },
     {
@@ -21,7 +19,6 @@
       "ClientID": 3,
       "FirstName": "HICHAM",
       "LastName": "AKASBI",
-      "HouseFamily": "AKASBI",
       "Email": "akasbihicham39@gmail.com"
     }
   ],
